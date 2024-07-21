@@ -1,0 +1,42 @@
+C:\Documents and Settings\Owner\Desktop\whack-a-mole\bin\Debug\GNS.Games.WackAMole.exe
+C:\Documents and Settings\Owner\Desktop\whack-a-mole\bin\Debug\GNS.Games.WackAMole.pdb
+C:\Documents and Settings\Owner\Desktop\whack-a-mole\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\whack-a-mole\obj\Debug\GNS.Games.WackAMole.formNameEntry.resources
+C:\Documents and Settings\Owner\Desktop\whack-a-mole\obj\Debug\GNS.Games.WackAMole.formHighScores.resources
+C:\Documents and Settings\Owner\Desktop\whack-a-mole\obj\Debug\GNS.Games.WackAMole.FormMain.resources
+C:\Documents and Settings\Owner\Desktop\whack-a-mole\obj\Debug\GNS.Games.WackAMole.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\whack-a-mole\obj\Debug\GNS.Games.WackAMole.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\Desktop\whack-a-mole\obj\Debug\GNS.Games.WackAMole.exe
+C:\Documents and Settings\Owner\Desktop\whack-a-mole\obj\Debug\GNS.Games.WackAMole.pdb
+C:\Users\Tieson\Documents\SENG 210\Project 1A\whack-a-mole\obj\Debug\GNS.Games.WackAMole.exe
+C:\Users\Tieson\Documents\SENG 210\Project 1A\whack-a-mole\obj\Debug\GNS.Games.WackAMole.pdb
+C:\Users\Tieson\Documents\SENG 210\Project 1A\whack-a-mole\bin\Debug\GNS.Games.WackAMole.exe
+C:\Users\Tieson\Documents\SENG 210\Project 1A\whack-a-mole\bin\Debug\GNS.Games.WackAMole.pdb
+C:\Users\Tieson\Documents\SENG 210\Project 1A\whack-a-mole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tieson\Documents\SENG 210\Project 1A\whack-a-mole\obj\Debug\GNS.Games.WackAMole.formNameEntry.resources
+C:\Users\Tieson\Documents\SENG 210\Project 1A\whack-a-mole\obj\Debug\GNS.Games.WackAMole.formHighScores.resources
+C:\Users\Tieson\Documents\SENG 210\Project 1A\whack-a-mole\obj\Debug\GNS.Games.WackAMole.FormMain.resources
+C:\Users\Tieson\Documents\SENG 210\Project 1A\whack-a-mole\obj\Debug\GNS.Games.WackAMole.Properties.Resources.resources
+C:\Users\Tieson\Documents\SENG 210\Project 1A\whack-a-mole\obj\Debug\GNS.Games.WackAMole.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Whack-A-Mole\obj\Debug\GNS.Games.WackAMole.exe
+C:\Users\David\Desktop\Whack-A-Mole\obj\Debug\GNS.Games.WackAMole.pdb
+C:\Users\David\Desktop\Whack-A-Mole\bin\Debug\GNS.Games.WackAMole.exe
+C:\Users\David\Desktop\Whack-A-Mole\bin\Debug\GNS.Games.WackAMole.pdb
+C:\Users\David\Desktop\Whack-A-Mole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\Whack-A-Mole\obj\Debug\GNS.Games.WackAMole.formNameEntry.resources
+C:\Users\David\Desktop\Whack-A-Mole\obj\Debug\GNS.Games.WackAMole.formHighScores.resources
+C:\Users\David\Desktop\Whack-A-Mole\obj\Debug\GNS.Games.WackAMole.FormMain.resources
+C:\Users\David\Desktop\Whack-A-Mole\obj\Debug\GNS.Games.WackAMole.Properties.Resources.resources
+C:\Users\David\Desktop\Whack-A-Mole\obj\Debug\GNS.Games.WackAMole.csproj.GenerateResource.Cache
+C:\code\WhackAMole\bin\Debug\GNS.Games.WackAMole.exe
+C:\code\WhackAMole\bin\Debug\GNS.Games.WackAMole.pdb
+C:\code\WhackAMole\obj\Debug\ResolveAssemblyReference.cache
+C:\code\WhackAMole\obj\Debug\GNS.Games.WackAMole.formNameEntry.resources
+C:\code\WhackAMole\obj\Debug\GNS.Games.WackAMole.formHighScores.resources
+C:\code\WhackAMole\obj\Debug\GNS.Games.WackAMole.FormMain.resources
+C:\code\WhackAMole\obj\Debug\GNS.Games.WackAMole.Properties.Resources.resources
+C:\code\WhackAMole\obj\Debug\GNS.Games.WackAMole.csproj.GenerateResource.Cache
+C:\code\WhackAMole\obj\Debug\GNS.Games.WackAMole.exe
+C:\code\WhackAMole\obj\Debug\GNS.Games.WackAMole.pdb
+C:\code\WhackAMole\bin\Debug\scores.DAT
+C:\code\WhackAMole\bin\Debug\scores.xml

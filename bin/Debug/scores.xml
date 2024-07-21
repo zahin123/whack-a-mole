@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<scorelist>
+	<user>
+		<name>Robert</name>
+		<score>270</score>
+		<diff>Easy</diff>
+	</user>
+	<user>
+		<name>Tieson</name>
+		<score>340</score>
+		<diff>Beginner</diff>
+	</user>
+	<user>
+		<name>Casey</name>
+		<score>290</score>
+		<diff>Expert</diff>
+	</user>
+	<user>
+		<name>Brian</name>
+		<score>280</score>
+		<diff>Beginner</diff>
+	</user>
+	<user>
+		<name>Chaka</name>
+		<score>270</score>
+		<diff>Easy</diff>
+	</user>
+	<user>
+		<name>Tieson</name>
+		<score>10</score>
+		<diff>Insane</diff>
+	</user>
+</scorelist>
